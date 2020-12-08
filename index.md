@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧠 I'm a Ph.D. student in cognitive neuroscience with a passion for data analysis . My main interests are neurolinguistics, language learning, and computational modeling :space_invader:.
+🧠 I'm a Ph.D. student in cognitive neuroscience with a passion for data analysis . My main interests are neurolinguistics, language learning, and computational modeling.
 
-🔭 I combine science and technology development to foster and inform language education practices. I am skilled in programming 🐍, data analysis :bar_chart:, and communication :speaker:.
+🔭 I combine science and technology development to foster and inform language education practices. I am skilled in programming 🐍, data analysis, and communication.
 
 ✨ Skillset:
 - Programming languages (Python, R, MATLAB, Java, C#)
