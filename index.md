@@ -1,29 +1,16 @@
-## Hi there 👋
+#About
 
-<!--
-**JoseAAManzano/joseaamanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cognitive scientist with a passion for data analysis. My main interests are psycholinguistics, language learning, and computational modeling.
 
-Here are some ideas to get you started:
+I combine science and technology development to foster and inform language education practices. I am skilled in programming, data analysis, visualization, and communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🧠 I'm a Ph.D. student in cognitive neuroscience with a passion for data analysis . My main interests are neurolinguistics, language learning, and computational modeling.
-
-🔭 I combine science and technology development to foster and inform language education practices. I am skilled in programming 🐍, data analysis, and communication.
-
-✨ Skillset:
+Skillset:
 - Programming languages (Python, R, MATLAB, Java, C#)
 - Machine and Deep Learning frameworks (sklearn, TensorFlow, Keras, PyTorch)
 - Version control and containers (Git, Github, Docker)
 - Data analysis software (R Studio, SPSS, JASP)
 - Data visualization packages (pandas, matplotlib, seaborn, ggplot, plotly)
+- BI Tools (Tableau)
 - Database management & query (SQL) 
 
 <!--
