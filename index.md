@@ -1,4 +1,4 @@
-#About
+# About
 
 I'm a cognitive scientist with a passion for data analysis. My main interests are psycholinguistics, language learning, and computational modeling.
 
